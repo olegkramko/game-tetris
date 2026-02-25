@@ -1,2 +1,2 @@
 # game-tetris
-Tetris Java game
+Tetris Java game wit GUI
